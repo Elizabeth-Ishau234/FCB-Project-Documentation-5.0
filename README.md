@@ -16,8 +16,11 @@ WHERE CONDITION
 
 ```
 
-![](Query function syntax.jpeg)
+![](Query function syntax.PNG)
 
+|Heading1|Heading2|Heading3|
+|--------|--------|--------|
+| Data 1 | Data 2 | Data 3 |
    
    
 
