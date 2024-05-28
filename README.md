@@ -13,9 +13,10 @@
 Goggle query sheet
 SELECT * FROM TABLE 1
 WHERE CONDITION
+
 ```
 
-![](Query function syntax.jpg)
+![](Query function syntax.jpeg)
 
    
    
